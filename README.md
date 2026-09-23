@@ -11,7 +11,7 @@
 
 **AeroNova** is a comprehensive, scalable network topology designed for a modern airport environment. This project simulates the complex networking requirements of a busy airport, including management segregation, public wireless access, hall-specific services, and centralized server management.
 
-This project was designed to demonstrate skills in **VLAN segmentation**, **Inter-VLAN routing**, **Wireless LAN Controller (WLC) integration**, **DHCP/DNS configuration**, and **static & dynamic routing** using Cisco Packet Tracer.
+This project was designed to demonstrate skills in **VLAN segmentation**, **Inter-VLAN routing**, **DHCP/DNS configuration**, and **static & dynamic routing** using Cisco Packet Tracer.
 
 ---
 
