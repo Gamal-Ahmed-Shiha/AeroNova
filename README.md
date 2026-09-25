@@ -1,4 +1,4 @@
-# ✈️ AeroNova: Scalable Airport Network 🛫
+# ✈️ AeroNova: A Scalable Airport Network 🛫
 
 ![AeroNova Banner](https://img.shields.io/badge/Project-AeroNova-blue?style=for-the-badge&logo=airbus)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Tool-Cisco%20Packet%20Tracer-orange?style=for-the-badge&logo=cisco)
