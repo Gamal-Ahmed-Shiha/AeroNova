@@ -45,7 +45,6 @@ The network is divided into distinct functional zones to ensure security, scalab
 ### 🧠 Core Components
 *   **Multilayer Switch (3560):** Acts as the core switch, handling Inter-VLAN routing and acting as the gateway for all subnets.
 *   **Routers (ISR 4331):** Used for WAN simulation and connecting the Management and Server zones.
-*   **Wireless LAN Controller (WLC):** Manages Access Points (APs) for the Smart Areas and Management wireless networks.
 
 ---
 
@@ -99,7 +98,6 @@ To improve network organization, isolation, and traffic management:
 *   **Trunking:** 802.1Q trunks configured between switches to carry multiple VLANs.
 
 ### Wireless Configuration
-*   **WLC:** Configured with multiple WLANs (SSIDs) mapped to specific VLANs.
 *   **APs:** Registered to the WLC and placed in the Smart Areas to provide coverage for security personnel.
 
 ---
