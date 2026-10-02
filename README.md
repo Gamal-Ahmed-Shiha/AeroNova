@@ -15,23 +15,6 @@ This project was designed to demonstrate skills in **VLAN segmentation**, **Inte
 
 ---
 
-## 👥 Team & Supervision
-
-**Project Creators:**
-*   Gamal Ahmed Shiha
-*   Ahmed Abdalrhman Ibrahim
-*   Ahmed Ashraf Mohamed
-*   Ahmed Mohammed Kamel
-*   Ahmed Tamer Ahmed
-*   Hagar Tmmam Imamm
-*   Mostafa Ahmed Salah Mahdi
-*   Walaa Magdy Salah Abdelfatah
-
-**Supervised By:**
-*   **Dr. Aya Magdy**
-
----
-
 ## 🗺️ Network Topology & Architecture
 
 The network is divided into distinct functional zones to ensure security, scalability, and ease of management.
